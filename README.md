@@ -28,7 +28,7 @@
 
 ### 1. Репозиторийді компьютерге жүктеу (Cloning):
 ```bash
-git clone https://github.com/your-username/library-manager.git
+git clone https://github.com/botaasylkhan077-arch/library-manager.git
 cd library-manager
 ```
 
